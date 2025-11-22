@@ -1,0 +1,7 @@
+
+# By default, ignore files in mp3_tag_manager_data, except those explicitly added to git.
+mp3_tag_manager_data/
+
+# By default, ignore mp3 files.
+*.mp3
+
