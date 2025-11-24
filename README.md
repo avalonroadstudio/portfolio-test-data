@@ -1,2 +1,2 @@
 # portfolio-test-data
-Test data for portfolio repo
+Test data for `portfolio` repo
